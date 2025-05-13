@@ -14,7 +14,7 @@ int main(){
     }else if(a==0&&b==0){
         cout<<"Origem";
     }else if(a==0&&b!=0){
-        cout<<"Eixo y";
+        cout<<"Eixo Y";
     }else{
         cout<<"Eixo X";
     }
